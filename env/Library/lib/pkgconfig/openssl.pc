@@ -1,0 +1,9 @@
+prefix=G:/My Drive/Data Science Pro/Machine Learning/ML Project Phishing classifier 16 07/phishing-classifier/env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.14 
